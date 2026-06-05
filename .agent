@@ -1,0 +1,19 @@
+# Paper Reading Agent Workflow
+
+## Paper Reading
+
+Use the installed `paper-deep-reading` Codex skill for local PDFs, paper URLs,
+DOIs, arXiv links, publisher pages, or paper titles in this workspace.
+
+Local defaults for this railway paper workspace:
+
+1. Create or update one Chinese deep-reading note under `notes/railway/`.
+2. Use the note schema from `paper-deep-reading/references/note-schema.md`.
+3. Update `README.md` with the paper metadata and note link when a note is created.
+4. Verify the note includes TL;DR, critical comment, Motivation and Basic Idea,
+   Background, Method, Evaluation, Key Artifacts, Limitations, and My Takeaways.
+5. If this folder is later initialized as a Git repo, run `git status --short`,
+   stage only files touched by the current paper-reading task, commit with
+   `Add paper note: <short title>` or `Update paper note: <short title>`, then
+   push if a remote exists.
+6. Do not stage or commit unrelated user changes.
