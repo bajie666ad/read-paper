@@ -7,7 +7,7 @@ DOIs, arXiv links, publisher pages, or paper titles in this workspace.
 
 Local defaults for this railway paper workspace:
 
-1. Create or update one Chinese deep-reading note under `notes/railway/`.
+1. Create or update one Chinese deep-reading note under `notes/`.
 2. Use the note schema from `paper-deep-reading/references/note-schema.md`.
 3. Update `README.md` with the paper metadata and note link when a note is created.
 4. Verify the note includes TL;DR, critical comment, Motivation and Basic Idea,

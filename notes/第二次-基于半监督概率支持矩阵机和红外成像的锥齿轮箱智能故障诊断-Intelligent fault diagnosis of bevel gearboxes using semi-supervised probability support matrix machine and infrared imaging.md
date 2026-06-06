@@ -6,7 +6,7 @@
 - Authors: Xin Li, Yong Li, Ke Yan, Haidong Shao, Janet (Jing) Lin
 - Venue / Year: Reliability Engineering and System Safety, 230 (2023) 108921
 - Note Name: 第二次-基于半监督概率支持矩阵机和红外成像的锥齿轮箱智能故障诊断-Intelligent fault diagnosis of bevel gearboxes using semi-supervised probability support matrix machine and infrared imaging
-- Paper: [PDF](../../papers/fault-diagnosis/第二次-基于半监督概率支持矩阵机和红外成像的锥齿轮箱智能故障诊断-Intelligent fault diagnosis of bevel gearboxes using semi-supervised probability support matrix machine and infrared imaging.pdf); DOI `10.1016/j.ress.2022.108921`
+- Paper: [PDF](../papers/第二次-基于半监督概率支持矩阵机和红外成像的锥齿轮箱智能故障诊断-Intelligent fault diagnosis of bevel gearboxes using semi-supervised probability support matrix machine and infrared imaging.pdf); DOI `10.1016/j.ress.2022.108921`
 - Code: Not reported in the paper
 - Dataset / Artifact: Infrared imaging dataset collected by authors; paper states data are available on request
 - Scope / Subfield: 小样本/少标注机械故障诊断；红外热成像；矩阵学习；半监督学习

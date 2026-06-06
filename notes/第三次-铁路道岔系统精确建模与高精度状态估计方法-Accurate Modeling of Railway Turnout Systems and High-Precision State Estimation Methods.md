@@ -7,7 +7,7 @@
 - Authors: Junqi Liu, Tao Wen, Xia Fang, Baigen Cai, Clive Roberts
 - Venue / Year: IEEE Sensors Journal, 25(8), 2025
 - Note Name: 第三次-铁路道岔系统精确建模与高精度状态估计方法-Accurate Modeling of Railway Turnout Systems and High-Precision State Estimation Methods
-- Paper: [PDF](../../papers/railway/第三次-铁路道岔系统精确建模与高精度状态估计方法-Accurate Modeling of Railway Turnout Systems and High-Precision State Estimation Methods.pdf); DOI `10.1109/JSEN.2025.3545619`
+- Paper: [PDF](../papers/第三次-铁路道岔系统精确建模与高精度状态估计方法-Accurate Modeling of Railway Turnout Systems and High-Precision State Estimation Methods.pdf); DOI `10.1109/JSEN.2025.3545619`
 - Code: Not reported in the paper
 - Dataset / Artifact: ZD6-A switch machine current data and BG simulation; data/code not reported as public
 - Scope / Subfield: 铁路道岔系统机理建模；非线性状态空间；高阶 EKF 状态估计

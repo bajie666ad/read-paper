@@ -7,7 +7,7 @@
 - Authors: Tao Wen, Xiaohan Chen, Dingcheng Zhang, Clive Roberts, Baigen Cai
 - Venue / Year: IEEE Transactions on Industrial Informatics, 20(6), 2024
 - Note Name: 第三次-面向不完善数据传输的铁路转辙机故障诊断顺序异步联邦学习框架-A Sequential and Asynchronous Federated Learning Framework for Railway Point Machine Fault Diagnosis With Imperfect Data Transmission
-- Paper: [PDF](../../papers/railway/第三次-面向不完善数据传输的铁路转辙机故障诊断顺序异步联邦学习框架-A Sequential and Asynchronous Federated Learning Framework for Railway Point Machine Fault Diagnosis With Imperfect Data Transmission.pdf); DOI `10.1109/TII.2024.3378800`
+- Paper: [PDF](../papers/第三次-面向不完善数据传输的铁路转辙机故障诊断顺序异步联邦学习框架-A Sequential and Asynchronous Federated Learning Framework for Railway Point Machine Fault Diagnosis With Imperfect Data Transmission.pdf); DOI `10.1109/TII.2024.3378800`
 - Code: Not reported in the paper
 - Dataset / Artifact: ZDJ9 railway point machine vibration dataset, 16 conditions, 960 samples; data/code not reported as public
 - Scope / Subfield: 铁路转辙机故障诊断；联邦学习；异步聚合；通信延迟与丢包鲁棒性
